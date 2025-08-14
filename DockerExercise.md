@@ -1,5 +1,10 @@
 # 🐳 Docker Hands-on Exercise.
 
+I’m sharing Docker exercise for you to practice and strengthen your containerization skills. Please go through the steps carefully and try to complete them on over this long weekends!
+
+Feel free to use the docker official links:
+1. https://docs.docker.com/compose/
+2. https://docs.docker.com/reference/dockerfile/
 
 
 
