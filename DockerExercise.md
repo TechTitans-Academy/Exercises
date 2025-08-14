@@ -77,7 +77,7 @@ flask
 - Get the understanding of docker-compose file with multiple containers.
 
 **Question:**
-- Please use the Question-2 docker-compose file for this question and add two ubuntu containers.
+- Please use the Question-3 docker-compose file for this question and add two ubuntu containers.
 - Following are the requirements that you need to add in previous docker-compose.
 
 **Requirements:**
